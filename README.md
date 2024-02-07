@@ -7,6 +7,7 @@
 This is a 2-D problem and thus the grid points are spread out in two dimensions as shown below.
 
 ![Untitled](Resources/Untitled.jpeg)
+<img src="Resources/Untitled.jpeg" width="300">
 
 ### Governing equations
 
